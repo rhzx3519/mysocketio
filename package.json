@@ -1,0 +1,13 @@
+{
+  "name": "mysocketio",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "fs": "~0.0.2",
+    "socket.io": "~0.9.16",
+    "sqlite3": "~3.0.5"
+  }
+}
